@@ -1,0 +1,15 @@
+D:\Training\Suprise Test 1\IndicesDiff\bin\Debug\net7.0\IndicesDiff.exe
+D:\Training\Suprise Test 1\IndicesDiff\bin\Debug\net7.0\IndicesDiff.deps.json
+D:\Training\Suprise Test 1\IndicesDiff\bin\Debug\net7.0\IndicesDiff.runtimeconfig.json
+D:\Training\Suprise Test 1\IndicesDiff\bin\Debug\net7.0\IndicesDiff.dll
+D:\Training\Suprise Test 1\IndicesDiff\bin\Debug\net7.0\IndicesDiff.pdb
+D:\Training\Suprise Test 1\IndicesDiff\obj\Debug\net7.0\IndicesDiff.csproj.AssemblyReference.cache
+D:\Training\Suprise Test 1\IndicesDiff\obj\Debug\net7.0\IndicesDiff.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Suprise Test 1\IndicesDiff\obj\Debug\net7.0\IndicesDiff.AssemblyInfoInputs.cache
+D:\Training\Suprise Test 1\IndicesDiff\obj\Debug\net7.0\IndicesDiff.AssemblyInfo.cs
+D:\Training\Suprise Test 1\IndicesDiff\obj\Debug\net7.0\IndicesDiff.csproj.CoreCompileInputs.cache
+D:\Training\Suprise Test 1\IndicesDiff\obj\Debug\net7.0\IndicesDiff.dll
+D:\Training\Suprise Test 1\IndicesDiff\obj\Debug\net7.0\refint\IndicesDiff.dll
+D:\Training\Suprise Test 1\IndicesDiff\obj\Debug\net7.0\IndicesDiff.pdb
+D:\Training\Suprise Test 1\IndicesDiff\obj\Debug\net7.0\IndicesDiff.genruntimeconfig.cache
+D:\Training\Suprise Test 1\IndicesDiff\obj\Debug\net7.0\ref\IndicesDiff.dll

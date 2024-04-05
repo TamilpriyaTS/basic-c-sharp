@@ -1,0 +1,15 @@
+D:\Training\Suprise Test 1\LnumChecker\bin\Debug\net7.0\LnumChecker.exe
+D:\Training\Suprise Test 1\LnumChecker\bin\Debug\net7.0\LnumChecker.deps.json
+D:\Training\Suprise Test 1\LnumChecker\bin\Debug\net7.0\LnumChecker.runtimeconfig.json
+D:\Training\Suprise Test 1\LnumChecker\bin\Debug\net7.0\LnumChecker.dll
+D:\Training\Suprise Test 1\LnumChecker\bin\Debug\net7.0\LnumChecker.pdb
+D:\Training\Suprise Test 1\LnumChecker\obj\Debug\net7.0\LnumChecker.csproj.AssemblyReference.cache
+D:\Training\Suprise Test 1\LnumChecker\obj\Debug\net7.0\LnumChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Suprise Test 1\LnumChecker\obj\Debug\net7.0\LnumChecker.AssemblyInfoInputs.cache
+D:\Training\Suprise Test 1\LnumChecker\obj\Debug\net7.0\LnumChecker.AssemblyInfo.cs
+D:\Training\Suprise Test 1\LnumChecker\obj\Debug\net7.0\LnumChecker.csproj.CoreCompileInputs.cache
+D:\Training\Suprise Test 1\LnumChecker\obj\Debug\net7.0\LnumChecker.dll
+D:\Training\Suprise Test 1\LnumChecker\obj\Debug\net7.0\refint\LnumChecker.dll
+D:\Training\Suprise Test 1\LnumChecker\obj\Debug\net7.0\LnumChecker.pdb
+D:\Training\Suprise Test 1\LnumChecker\obj\Debug\net7.0\LnumChecker.genruntimeconfig.cache
+D:\Training\Suprise Test 1\LnumChecker\obj\Debug\net7.0\ref\LnumChecker.dll

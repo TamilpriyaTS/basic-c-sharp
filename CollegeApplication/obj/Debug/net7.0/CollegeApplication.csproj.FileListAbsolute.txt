@@ -1,0 +1,15 @@
+D:\Training\CollegeApplication\bin\Debug\net7.0\CollegeApplication.exe
+D:\Training\CollegeApplication\bin\Debug\net7.0\CollegeApplication.deps.json
+D:\Training\CollegeApplication\bin\Debug\net7.0\CollegeApplication.runtimeconfig.json
+D:\Training\CollegeApplication\bin\Debug\net7.0\CollegeApplication.dll
+D:\Training\CollegeApplication\bin\Debug\net7.0\CollegeApplication.pdb
+D:\Training\CollegeApplication\obj\Debug\net7.0\CollegeApplication.csproj.AssemblyReference.cache
+D:\Training\CollegeApplication\obj\Debug\net7.0\CollegeApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\CollegeApplication\obj\Debug\net7.0\CollegeApplication.AssemblyInfoInputs.cache
+D:\Training\CollegeApplication\obj\Debug\net7.0\CollegeApplication.AssemblyInfo.cs
+D:\Training\CollegeApplication\obj\Debug\net7.0\CollegeApplication.csproj.CoreCompileInputs.cache
+D:\Training\CollegeApplication\obj\Debug\net7.0\CollegeApplication.dll
+D:\Training\CollegeApplication\obj\Debug\net7.0\refint\CollegeApplication.dll
+D:\Training\CollegeApplication\obj\Debug\net7.0\CollegeApplication.pdb
+D:\Training\CollegeApplication\obj\Debug\net7.0\CollegeApplication.genruntimeconfig.cache
+D:\Training\CollegeApplication\obj\Debug\net7.0\ref\CollegeApplication.dll

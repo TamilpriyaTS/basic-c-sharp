@@ -1,0 +1,15 @@
+C:\Users\TamilpriyaThangaraju\OneDrive - Syncfusion\Desktop\Assignment\MethodPractise\bin\Debug\net7.0\MethodPractise.exe
+C:\Users\TamilpriyaThangaraju\OneDrive - Syncfusion\Desktop\Assignment\MethodPractise\bin\Debug\net7.0\MethodPractise.deps.json
+C:\Users\TamilpriyaThangaraju\OneDrive - Syncfusion\Desktop\Assignment\MethodPractise\bin\Debug\net7.0\MethodPractise.runtimeconfig.json
+C:\Users\TamilpriyaThangaraju\OneDrive - Syncfusion\Desktop\Assignment\MethodPractise\bin\Debug\net7.0\MethodPractise.dll
+C:\Users\TamilpriyaThangaraju\OneDrive - Syncfusion\Desktop\Assignment\MethodPractise\bin\Debug\net7.0\MethodPractise.pdb
+C:\Users\TamilpriyaThangaraju\OneDrive - Syncfusion\Desktop\Assignment\MethodPractise\obj\Debug\net7.0\MethodPractise.csproj.AssemblyReference.cache
+C:\Users\TamilpriyaThangaraju\OneDrive - Syncfusion\Desktop\Assignment\MethodPractise\obj\Debug\net7.0\MethodPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TamilpriyaThangaraju\OneDrive - Syncfusion\Desktop\Assignment\MethodPractise\obj\Debug\net7.0\MethodPractise.AssemblyInfoInputs.cache
+C:\Users\TamilpriyaThangaraju\OneDrive - Syncfusion\Desktop\Assignment\MethodPractise\obj\Debug\net7.0\MethodPractise.AssemblyInfo.cs
+C:\Users\TamilpriyaThangaraju\OneDrive - Syncfusion\Desktop\Assignment\MethodPractise\obj\Debug\net7.0\MethodPractise.csproj.CoreCompileInputs.cache
+C:\Users\TamilpriyaThangaraju\OneDrive - Syncfusion\Desktop\Assignment\MethodPractise\obj\Debug\net7.0\MethodPractise.dll
+C:\Users\TamilpriyaThangaraju\OneDrive - Syncfusion\Desktop\Assignment\MethodPractise\obj\Debug\net7.0\refint\MethodPractise.dll
+C:\Users\TamilpriyaThangaraju\OneDrive - Syncfusion\Desktop\Assignment\MethodPractise\obj\Debug\net7.0\MethodPractise.pdb
+C:\Users\TamilpriyaThangaraju\OneDrive - Syncfusion\Desktop\Assignment\MethodPractise\obj\Debug\net7.0\MethodPractise.genruntimeconfig.cache
+C:\Users\TamilpriyaThangaraju\OneDrive - Syncfusion\Desktop\Assignment\MethodPractise\obj\Debug\net7.0\ref\MethodPractise.dll
